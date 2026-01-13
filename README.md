@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">
+</h1>
 
-<!--
-**Hammadi6289/Hammadi6289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+my+name's+Hammad;I+love+secure+code.;I+love+learning.;&center=true&width=600&height=70"></a>
+</p>
 
-Here are some ideas to get you started:
+<p>
+<div align="center">
+  <h2>
+    Languages and Tools
+  </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+</p>
+<p>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/37e825a01970a36cdea821d22dd6129cb9d3033d7b24ce20d6b695b5f4a2eba3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/bf6194a6a88c4b67810fae18d2c05138d036b03e93f408a7231d635c0df91e62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/dd0e1755231f4d522370287850b2837f8eb9d641436ae3f3969d0355cd140ee4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b">
+
+  <img src="https://camo.githubusercontent.com/78318bbb75408a763c385139db7cc654f9f47c1beb4ad0410956da3537834ea1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465">
+
+  <img src="https://camo.githubusercontent.com/18f8a526265952d1a4ed04eff457c936721e64e5bf4e3f35cca938efe3f30de5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
+
+  <img src="https://camo.githubusercontent.com/13a23fd060eacd604dd8e7051d27dda2ba288dfaacac02157bb01b04c86eb0ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465">
+</div>
+</p>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://camo.githubusercontent.com/fde9c5cef05819ee087712782f0f6d8fd9c560a5090bfcdad2c519b45c51f22e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d4669676d61266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/5cae1fdf7a88af39b48fd2fd673238c7978e55aed9f3f26b5c870a49d4be8025/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465">
+</div>
+</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  <img src="https://img.shields.io/badge/StackExchange-%23F05033.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
+</div>
+</p>
+
