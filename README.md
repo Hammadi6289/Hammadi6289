@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+my+name's+Hammad;I+love+secure+code.;I+love+learning.;&center=true&width=600&height=70"></a>
+  <a href="https://github.com/Hammadi6289"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+my+name's+Hammad;I+love+secure+code.;I+love+learning.;&center=true&width=600&height=70"></a>
 </p>
 
 <p>
